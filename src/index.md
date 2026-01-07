@@ -5,7 +5,7 @@ title: Home
 
 # Michael’s Portfolio
 
-Short intro.
+HI POOKIE IF YOU'RE LOOKING :D
 
 ## Featured
 - [Projects](/projects/)
